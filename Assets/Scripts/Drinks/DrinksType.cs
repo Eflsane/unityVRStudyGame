@@ -1,0 +1,50 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public enum DrinkType
+{
+    Null = 0,
+    Sambuca = 1,
+    Tequila = 2,
+    Absent = 3,
+    BlueCuraCao = 4,
+    IrishCream = 5,
+    Gin = 6,
+    Proseco = 7,
+    LavanderBitter = 8,
+    SugarSyrup = 9,
+    Lemon = 10,
+    Ice = 11,
+    Vodka = 12,
+    Laim = 13,
+    Strawberry = 14,
+    Mezgal = 15,
+    Picon = 16,
+    GingerSyrup = 17,
+    Orange = 18,
+    Rum = 19,
+    Mint = 20,
+    RumGold = 21,
+    MapleSyrup = 22,
+    AppleJuice = 23,
+    CarrotJuice = 24,
+    TripleSec = 25,
+    Cranberry = 26,
+    Sprite = 27,
+    Ananas = 28,
+
+    s______s = 29,
+    
+    Clouds = 30,
+    CloudsInTrausers = 31,
+    Haeven = 32,
+    DarkSideOfTheMoon = 33,
+    Astranaut = 34,
+    MexicanAstranaut = 35,
+    Space = 36,
+    AboveTheClouds = 37,
+    Cosmopolitan = 38,
+    Stratosphere = 39,
+    BlueLagoon = 40,
+}
